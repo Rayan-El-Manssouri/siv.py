@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import PhotoImage
 
 root = tk.Tk()
-root.title("Siv - Welcom")
+root.title("Siv - 1.0.0")
 root.geometry("1280x720")
 
 def button_click():
