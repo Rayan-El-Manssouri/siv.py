@@ -13,3 +13,7 @@
 ### With git (for developers)
 
 `git clonehttps://github.com/Rayan-El-Manssouri/siv.py`
+
+# Install projects
+
+Deux fichier seront mis dessus pour installer sur linux est windows 
